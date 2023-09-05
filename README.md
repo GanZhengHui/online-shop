@@ -3,7 +3,7 @@ It's the project code that I typed by myself for learning Vue2.
 
 # 主页
 
-![index](C:\Users\user\Desktop\shopProject\img\index.jpg)
+![images](https://github.com/GanZhengHui/images-blog/blob/main/img-shopProject/index.jpg)
 
 # 商品详情页
 
